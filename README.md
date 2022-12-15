@@ -6,4 +6,4 @@
         <img src="https://github.com/ThaiHa279/NFA-epsilon-to-DFA/blob/main/image/Screenshot%202022-12-15%20190249.png"  width="100">
 
 ### ALL MEMBER
- [Vũ Thái Hà](https://github.com/ThaiHa279) | [Trần Gia Huy] (https://github.com/TranHuy2k2)
+ [Vũ Thái Hà](https://github.com/ThaiHa279) | [Trần Gia Huy](https://github.com/TranHuy2k2)
